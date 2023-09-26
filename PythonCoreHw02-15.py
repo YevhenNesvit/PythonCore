@@ -40,3 +40,4 @@ while True :
             result /= operand
         operand = None
         operator = None
+#
